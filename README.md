@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Maru!
 
-<!--
-**sushimaru2006/sushimaru2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- 🏢 大学生、情報学専攻
+- 🌱 AIとWebについて学習中です。
+- 💬 趣味はバレーボールと個人開発です。
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sushimaru2006&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
