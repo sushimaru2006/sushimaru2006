@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Maru!
+# Hi there 👋
 
 ## 👨‍💻 About Me
 - 🏢 大学生、情報学専攻
-- 🌱 AIとWebについて学習中です。
-- 💬 趣味はバレーボールと個人開発です。
+- 🌱 AIとWebについて学習中
+- 💬 趣味はバレーボールと個人開発
 
 ## 🛠️ Skills & Technologies
 
